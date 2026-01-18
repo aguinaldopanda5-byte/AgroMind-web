@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgroMind – Inteligência digital para o pequeno agricultor</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f6f8f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #2e7d32;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h2 {
+            color: #2e7d32;
+        }
+        .button {
+            display: inline-block;
+            background: #2e7d32;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        .box {
+            background: white;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 6px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        footer {
+            background: #1b5e20;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>AgroMind</h1>
+    <p>Inteligência digital para o pequeno agricultor angolano</p>
+    <a href="#contacto" class="button">Quero testar o AgroMind</a>
+</header>
+
+<section>
+    <h2>O Problema</h2>
+    <div class="box">
+        <p>Em Angola, muitos pequenos agricultores produzem sem assistência técnica adequada, o que resulta em perdas por pragas, baixa produtividade e dificuldades na colheita e armazenamento.</p>
+    </div>
+</section>
+
+<section>
+    <h2>A Solução</h2>
+    <div class="box">
+        <p>O AgroMind é uma plataforma digital que oferece orientação prática sobre plantio, prevenção de pragas e doenças, boas práticas agrícolas, colheita, logística e armazenamento, adaptada à realidade do agricultor angolano.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Como Funciona</h2>
+    <div class="box">
+        <ol>
+            <li>O agricultor escolhe a cultura</li>
+            <li>Indica o problema ou dúvida</li>
+            <li>Recebe orientação simples e prática</li>
+            <li>Aplica no campo e melhora a produção</li>
+        </ol>
+    </div>
+</section>
+
+<section>
+    <h2>Culturas Suportadas (MVP)</h2>
+    <div class="box">
+        <p>Milho • Mandioca • Feijão • Tomate • Banana</p>
+    </div>
+</section>
+
+<section>
+    <h2>Impacto</h2>
+    <div class="box">
+        <p><strong>Social:</strong> Inclusão digital e capacitação do agricultor.</p>
+        <p><strong>Económico:</strong> Aumento da produtividade e redução de perdas.</p>
+        <p><strong>Agrícola:</strong> Produção mais eficiente e sustentável.</p>
+    </div>
+</section>
+
+<section id="contacto">
+    <h2>Contacto</h2>
+    <div class="box">
+        <p>Email: contacto@agromind.co</p>
+        <p>WhatsApp: +244 XXX XXX XXX</p>
+    </div>
+</section>
+
+<footer>
+    <p>AgroMind © 2026 – Angola</p>
+</footer>
+
+</body>
+</html>
